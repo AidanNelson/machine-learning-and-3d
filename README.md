@@ -19,6 +19,44 @@ This course will be collaborative and hands-on with in-class activities and week
 * Develop familiarity with current research and techniques for capturing, creating and experiencing 3D media and possibilities for creative use
 * Develop your personal aesthetic sensibilities through a series of guided exercises
 
+## Weekly Schedule
+
+| Week | Topic |
+|------|-------|
+| 01 | [Introduction: The 3D + ML Landscape](#week-01---introduction-the-3d--ml-landscape) |
+| 02 | Capture: 3D Reconstruction: Gaussian Splatting |
+| 03 | Capture: Editing and Presenting Gaussian Splats |
+| 04 | Generation: Text and Image to 3D |
+| 05 | Generation: Texture, Materials, and Hybrid Workflows |
+| 06 | Alternative Workflows |
+| 07 | Alternative Workflows & Wrap-Up |
+
+
+### Week 01 - Introduction: The 3D + ML Landscape
+
+#### In Class
+- An (Extremely Brief) History of 3D Graphics 
+- Where we are today
+- Class Activity
+
+#### Assignment
+- **Journaling in Space** - In groups (see email for group assignment), capture and collage together a series of 3D captures that reflect some aspect of your day-to-day experience of living in New York City. Imagine you are making this for yourself 10 years from now.  Focus on details. What you would like to remember that you might otherwise forget?  See below for guidance:
+  1. Following [this guide](https://rd.nytimes.com/projects/gaussian-splatting-guide/), use Scaniverse ([iOS](https://apps.apple.com/us/app/scaniverse-3d-scanner/id1541433223) / [Android](https://play.google.com/store/apps/details?id=com.nianticlabs.scaniverse)) or another app to capture at least one interior space, one exterior space and one object per person in your group.
+  2. Export them from the app as .ply files.
+  3. Import these .ply files into the [SuperSplat Editor](https://superspl.at/editor), create a meaningful composition of at least 3 or 4 of these scanned objects and spaces.
+  4. Export your composition in one of two ways:
+    - Video - as a video (using screen capture OR SuperSplat’s built-in Timeline Camera Editor)
+    - Interactive HTML Scene - as an interactive HTML scene (File \> Export \>  Viewer App…).  Upload your composition to Google Drive and link to the class Miro Board under Week 02\.
+
+- **Group Research Sharing** - Group one prepares research sharing presentation for week 02.
+
+
+
+
+
+
+---
+
 ### **CODE OF CONDUCT**
 
 - [ITP/IMA Code of Conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/)
@@ -35,12 +73,13 @@ This course will be collaborative and hands-on with in-class activities and week
 
 ### **BOOKABLE OFFICE HOURS**
 
-- You all enter this classroom with different sets of skills. In virtue of this fact, I open my office to you as an extension of the classroom. I am available for you during that time and if you can’t make it to the scheduled times, please let me know and together we will find a time which works.   
-- There’s no incorrect way to approach office hours, and they can be as formal or informal as you would like. In this class, we will not shy away from difficult conversations and work closely together to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email. 
+You all enter this classroom with different sets of skills. In virtue of this fact, I open my office to you as an extension of the classroom. I am available for you during that time and if you can’t make it to the scheduled times, please let me know and together we will find a time which works.   
+
+There’s no incorrect way to approach office hours, and they can be as formal or informal as you would like. In this class, we will not shy away from difficult conversations and work closely together to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email. 
 
 ### **ALTERNATIVE SOFTWARE POLICY**
 
-- There is a variety of media software other than the ones shown in class through which you could fulfill each assignment. If you are choosing one of these alternatives for an assignment, please let me know in advance. If you are working in a group project, please decide as a group on the software tools which best support your project goals.
+There is a variety of media software other than the ones shown in class through which you could fulfill each assignment. If you are choosing one of these alternatives for an assignment, please let me know in advance. If you are working in a group project, please decide as a group on the software tools which best support your project goals.
 
 ### **EVALUATION**
 
@@ -119,16 +158,3 @@ Tisch School of the Arts is dedicated to providing its students with a learning 
 
 Teachers and students work together to create a supportive learning environment. The educational experience in the classroom is one that is enhanced by integrating varying perspectives and learning modes brought by students. 
 
----
-
-## Weekly Schedule
-
-| Week | Topic |
-|------|-------|
-| 1 | Introduction: The 3D + ML Landscape |
-| 2 | Capture: 3D Reconstruction: Gaussian Splatting |
-| 3 | Capture: Editing and Presenting Gaussian Splats |
-| 4 | Generation: Text and Image to 3D |
-| 5 | Generation: Texture, Materials, and Hybrid Workflows |
-| 6 | Alternative Workflows |
-| 7 | Alternative Workflows & Wrap-Up |
