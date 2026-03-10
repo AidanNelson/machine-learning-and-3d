@@ -19,7 +19,7 @@ This course will be collaborative and hands-on with in-class activities and week
 * Develop familiarity with current research and techniques for capturing, creating and experiencing 3D media and possibilities for creative use
 * Develop your personal aesthetic sensibilities through a series of guided exercises
 
-## Weekly Schedule
+## Overview
 
 | Week | Topic |
 |------|-------|
@@ -31,6 +31,8 @@ This course will be collaborative and hands-on with in-class activities and week
 | 06 | Alternative Workflows |
 | 07 | Alternative Workflows & Wrap-Up |
 
+
+## Week-by-Week Schedule
 
 ### Week 01 - Introduction: The 3D + ML Landscape
 
@@ -48,11 +50,29 @@ This course will be collaborative and hands-on with in-class activities and week
     - Video - as a video (using screen capture OR SuperSplat’s built-in Timeline Camera Editor)
     - Interactive HTML Scene - as an interactive HTML scene (File \> Export \>  Viewer App…).  Upload your composition to Google Drive and link to the class Miro Board under Week 02\.
 
-- **Group Research Sharing** - Group one prepares research sharing presentation for week 02.
+- **Group Research Sharing** - Group one prepares presentation for week 02 following [this guide](#group-research-sharing-assignment-weeks-2-6).
 
 
 
 
+## Group Research Sharing Assignment (Weeks 2-6)
+
+Each week, one group will read and prepare a short ~5-8 minute group presentation on a piece of emerging research. Each group selects an article(s), paper, or project from the reading list below (or feel free to use alternative sources as long as you cite them properly). The presentation should cover:
+- What the project or paper does (explain it so your classmates can follow along)
+- What you found exciting or novel about the approach
+- 1-2 discussion questions for the class
+
+**Notes:**
+- Create 1-3 slides totay with visuals from the project.  Show the project page, demo videos, or figures from the paper — visuals make presentations far more engaging.
+- Please do not go into every technical detail; focus on the core idea and its *implications for creative use*
+- Connect it to the class: how does this relate to what you're learning or making?
+
+### Reading List:
+* [NYU Library](https://library.nyu.edu/) (Use the "Chat with us" feature to ask questions)
+* [ArXiv.org](https://arxiv.org/) (e.g. use the search functionality to find articles that interest you)
+* [Disney Research](https://www.disneyresearch.com/)
+* [Nvidia Labs](https://research.nvidia.com/labs/sil/)
+* [ACM Digital Library](https://dl.acm.org/action/doSearch?AllField=machine+learning+3d+) or the ACM [SIGGRAPH (Computer Graphics Conference) Blog](https://blog.siggraph.org/)
 
 
 ---
