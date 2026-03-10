@@ -63,7 +63,7 @@ Each week, one group will read and prepare a short ~5-8 minute group presentatio
 - 1-2 discussion questions for the class
 
 **Notes:**
-- Create 1-3 slides totay with visuals from the project.  Show the project page, demo videos, or figures from the paper — visuals make presentations far more engaging.
+- Create 1-3 slides with visuals from the project.  Show the project page, demo videos, or figures from the paper — something visual which captures the ideas behind this research.
 - Please do not go into every technical detail; focus on the core idea and its *implications for creative use*
 - Connect it to the class: how does this relate to what you're learning or making?
 
