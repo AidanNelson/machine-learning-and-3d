@@ -41,6 +41,10 @@ This course will be collaborative and hands-on with in-class activities and week
 - Where we are today
 - Class Activity
 
+#### Resources
+- [Slide Deck for Week 01](https://docs.google.com/presentation/d/1u2eTk1v62IwqrK7BlLz0K3Ga0kTwNvq5wgwchlWKEHQ/edit?usp=sharing)
+- [Example Gaussian Splat Models](https://drive.google.com/drive/folders/187qkHz2Mh_fuGGGcfrei-J4aBUBeSYkg?usp=sharing)
+
 #### Assignment
 - **Journaling in Space** - In groups (see email for group assignment), capture and collage together a series of 3D captures that reflect some aspect of your day-to-day experience of living in New York City. Imagine you are making this for yourself 10 years from now.  Focus on details. What you would like to remember that you might otherwise forget?  See below for guidance:
   1. Following [this guide](https://rd.nytimes.com/projects/gaussian-splatting-guide/), use Scaniverse ([iOS](https://apps.apple.com/us/app/scaniverse-3d-scanner/id1541433223) / [Android](https://play.google.com/store/apps/details?id=com.nianticlabs.scaniverse)) or another app to capture at least one interior space, one exterior space and one object per person in your group.
