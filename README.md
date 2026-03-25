@@ -24,7 +24,7 @@ This course will be collaborative and hands-on with in-class activities and week
 | Week | Topic |
 |------|-------|
 | 01 | [Introduction: The 3D + ML Landscape](#week-01---introduction-the-3d--ml-landscape) |
-| 02 | Capture: 3D Reconstruction: Gaussian Splatting |
+| 02 | [Capture: 3D Reconstruction: Gaussian Splatting](#week-02---capture-3d-reconstruction-gaussian-splatting) |
 | 03 | Capture: Editing and Presenting Gaussian Splats |
 | 04 | Generation: Text and Image to 3D |
 | 05 | Generation: Texture, Materials, and Hybrid Workflows |
@@ -57,6 +57,18 @@ This course will be collaborative and hands-on with in-class activities and week
 - **Group Research Sharing** - Group one prepares presentation for week 02 following [this guide](#group-research-sharing-assignment-weeks-2-6).
 
 
+### Week 02 - Capture: 3D Reconstruction: Gaussian Splatting
+
+#### In Class
+- Student Research Sharing Presentation - Group 1 
+- Assignment Sharing
+- Alternative Techniques for training Gaussian Splat models
+
+#### Resources
+- [Slide Deck for Week 02](https://docs.google.com/presentation/d/1HCPYF60fj3jYxA-y3D6QqirnYO-uzq4vcBl4AXr5R4E/edit?usp=sharing)
+
+#### Assignment
+- **Journaling in Space - Part Two** - Continuing in your same groups from last week (or feel free to work solo if you prefer), expand on your project by capturing additional Gaussian Splat models using one of the two techniques we review in class this week (Jawset Postshot or Nerfstudio).  Try to vary your subjects and capture techniques.  If you focused on small objects last week, capture spaces.  If your subjects were largely permanent or solid, focus on the ephemeral.  
 
 
 ## Group Research Sharing Assignment (Weeks 2-6)
