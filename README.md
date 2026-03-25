@@ -70,6 +70,8 @@ This course will be collaborative and hands-on with in-class activities and week
 #### Assignment
 - **Journaling in Space - Part Two** - Continuing in your same groups from last week (or feel free to work solo if you prefer), expand on your project by capturing additional Gaussian Splat models using one of the two techniques we review in class this week (Jawset Postshot or Nerfstudio).  Try to vary your subjects and capture techniques.  If you focused on small objects last week, capture spaces.  If your subjects were largely permanent or solid, focus on the ephemeral.  
 
+- **Group Research Sharing** - Group two prepares presentation for week 03 following [this guide](#group-research-sharing-assignment-weeks-2-6).
+
 
 ## Group Research Sharing Assignment (Weeks 2-6)
 
