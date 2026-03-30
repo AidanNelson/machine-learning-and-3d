@@ -2,7 +2,7 @@
 
 **Instructor:** Aidan Nelson  
 **Email:** anelson@nyu.edu   
-**Office “Drop-In” Hours (370 Jay St, Floor 4 OR Video Chat):** Book Here  
+**Office “Drop-In” Hours (370 Jay St, Floor 4 OR Video Chat):** [Book Here](https://calendar.app.google/ZKoRiRZbGuACFcGn9)  
 **Class Time:** Wednesday, 12:20 - 2:50pm  
 **Class Dates:** 7 weeks - 2nd Half of Spring 2026
 
