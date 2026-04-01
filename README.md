@@ -73,6 +73,32 @@ This course will be collaborative and hands-on with in-class activities and week
 - **Group Research Sharing** - Group two prepares presentation for week 03 following [this guide](#group-research-sharing-assignment-weeks-2-6).
 
 
+### Week 03 - Capture: Editing and Presenting Gaussian Splats
+
+#### In Class
+- Student Research Sharing Presentation - Group 2 
+- Assignment Sharing
+- Alternative Techniques for training Gaussian Splat models: Nerfstudio
+- Presenting Gaussian Splats on the web using three.js and sparkjs.dev
+
+#### Resources
+
+
+#### Assignment
+- **Journaling in Space - Part Three** (In groups of your choosing or on your own) 
+  
+  So far, your work has focused on capture.  This week, please switch your attention to using your captures as part of a narrative experience. Develop a short (1-2 minute) experience which uses your existing captures (or new ones) to tell a story, contextualize an idea or concept or space, or support an interactive audio-visual work.  Consider your audience: who is this for and how would you like them to engage?
+
+  The form of this piece can be a video, an interactive or something else. In either case, you should be able to justify why 3D is necessary for this piece and what next steps you would like to take to publish this piece. 
+  
+  Some presentation options:
+  - Render a video from your captures using SuperSplat or Postshot.  Use video editing software to supplement this video with voiceover, music or text.
+  - Use the supersplat editor to publish an interactive scene with supplemental text that supports the experience.  Consider the navigation options, the opening video (e.g. created with the timeline) and other
+  - Use three.js and sparkjs.dev to display splats within an interactive web experience.
+
+- **Group Research Sharing** - Group three prepares presentation for week 04 following [this guide](#group-research-sharing-assignment-weeks-2-6).
+
+
 ## Group Research Sharing Assignment (Weeks 2-6)
 
 Each week, one group will read and prepare a short ~5-8 minute group presentation on a piece of emerging research. Each group selects an article(s), paper, or project from the reading list below (or feel free to use alternative sources as long as you cite them properly). The presentation should cover:
