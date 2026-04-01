@@ -25,7 +25,7 @@ This course will be collaborative and hands-on with in-class activities and week
 |------|-------|
 | 01 | [Introduction: The 3D + ML Landscape](#week-01---introduction-the-3d--ml-landscape) |
 | 02 | [Capture: 3D Reconstruction: Gaussian Splatting](#week-02---capture-3d-reconstruction-gaussian-splatting) |
-| 03 | Capture: Editing and Presenting Gaussian Splats |
+| 03 | [Capture: Editing and Presenting Gaussian Splats](#week-03---capture-editing-and-presenting-gaussian-splats) |
 | 04 | Generation: Text and Image to 3D |
 | 05 | Generation: Texture, Materials, and Hybrid Workflows |
 | 06 | Alternative Workflows |
