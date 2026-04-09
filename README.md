@@ -98,6 +98,31 @@ This course will be collaborative and hands-on with in-class activities and week
 
 - **Group Research Sharing** - Group three prepares presentation for week 04 following [this guide](#group-research-sharing-assignment-weeks-2-6).
 
+### Week 04 - Generation: Text and Image to 3D
+
+#### In Class
+- Student Research Sharing Presentation - Group 3 
+- Assignment Sharing - Round Robin & Adddress Remaining Questions
+- Guest Speaker!
+
+
+#### Assignment
+- **3D Generation - Asset Pack** (In groups of your choosing or on your own) 
+  
+  3D creators like David O'Reilly (https://davidoreilly.itch.io/everything-library-animals) and Kenney.nl (https://kenney.nl/assets) release asset packs for use by independent game developers.  [3D sharing websites](https://itch.io/game-assets/free/tag-3d) are full of 3D content packs related to common and uncommon game scenarios and styles.  Given a week and the tools available to you for 3D mesh generation, create a set of 5-10 3D assets which you might imagine releasing as a set for someone else to reuse.  
+
+  Consider what is specific to your life and surroundings that you feel belongs together in a set of 3d models?  Be specific in your choice of items.  There may be hundreds of asset packs for vehicles, but none focused on yellow bicycles in Brooklyn.  How can you achieve a stylistic continuity between these models? 
+
+  Please try one or more of the following 3D generation workflows:
+    - [3D Generation Spaces on HuggingFace](https://huggingface.co/spaces?category=3d-modeling&sort=likes)
+    - Cloud services (e.g. Meshy.ai, Tripo, etc.)
+    - ITP GPU Machine (see links on email)
+
+- **Watch** [*Getting Over It* Commentary](https://www.youtube.com/watch?v=IO6ouSMm7Uc)
+  
+
+- **Group Research Sharing** - Group four prepares presentation for week 05 following [this guide](#group-research-sharing-assignment-weeks-2-6).
+
 
 ## Group Research Sharing Assignment (Weeks 2-6)
 
