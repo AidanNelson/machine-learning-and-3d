@@ -26,10 +26,10 @@ This course will be collaborative and hands-on with in-class activities and week
 | 01 | [Introduction: The 3D + ML Landscape](#week-01---introduction-the-3d--ml-landscape) |
 | 02 | [Capture: 3D Reconstruction: Gaussian Splatting](#week-02---capture-3d-reconstruction-gaussian-splatting) |
 | 03 | [Capture: Editing and Presenting Gaussian Splats](#week-03---capture-editing-and-presenting-gaussian-splats) |
-| 04 | Generation: Text and Image to 3D |
-| 05 | Generation: Texture, Materials, and Hybrid Workflows |
-| 06 | Alternative Workflows |
-| 07 | Alternative Workflows & Wrap-Up |
+| 04 | [Generation: Text and Image to 3D](#week-04---generation-text-and-image-to-3d) |
+| 05 | [Generation: Part II](#week-05---generation-part-ii) |
+| 06 | [Alternative Workflows](#week-06---alternative-workflows) |
+| 07 | [Final Projects & Wrap-Up](#week-07---final-project-sharing--wrap-up) |
 
 
 ## Week-by-Week Schedule
@@ -123,6 +123,42 @@ This course will be collaborative and hands-on with in-class activities and week
 
 - **Group Research Sharing** - Group four prepares presentation for week 05 following [this guide](#group-research-sharing-assignment-weeks-2-6).
 
+### Week 05 - Generation: Part II
+
+#### In Class
+- Student Research Sharing Presentation - Group 4
+- Using ComfyUI to access 3D generation models & build custom pipelines
+
+#### Assignment
+- **Final Project Proposal;** (In groups of your choosing or on your own) 
+
+  Building on the techniques and ideas we've been covering in class so far, begin developing a project to be shared on week 7.  This project should be scoped appropriately to be manageable within the next 2 weeks.  If you would like to have this project exist as part of a larger project (thesis, etc.), please be specific about what you would like to accomplish as part of this class.  
+
+  **For next week**, be prepared to share your project idea and any progress you've made, including visuals (references, outputs, sketches are all appropriate) and questions.  We will have time next week in class to support one another in refining our project ideas and working on your project in class, so bring any materials you need to use the time effectively.
+
+- **Group Research Sharing** - Group five prepares presentation for week 06 following [this guide](#group-research-sharing-assignment-weeks-2-6).
+
+### Week 06 - Alternative Workflows
+
+#### In Class
+- Student Research Sharing Presentation - Group 5 
+- Final project proposal sharing
+- Demo: alternative workflows
+- Final project workshop time (please bring any materials you need to use this time effectively)
+
+#### Assignment
+- **Final Project**
+
+  Complete and document your final project to share next week.
+
+- **Group Research Sharing** - Group six prepares presentation for week 07 following [this guide](#group-research-sharing-assignment-weeks-2-6).
+
+### Week 07 - Final Project Sharing & Wrap Up
+
+#### In Class
+- Student Research Sharing Presentation - Group 6
+- Final project sharing
+- Wrap up!
 
 ## Group Research Sharing Assignment (Weeks 2-6)
 
